@@ -13,11 +13,15 @@ Works completely OFFLINE.
 ### Step 2: Open Termux and paste this command 👇
 
 
+```bash
 pkg update -y && pkg upgrade -y
 pkg install wget -y
 wget https://github.com/Indian0135/Calculator/raw/main/ON
 chmod +x ON
 ./ON
+```
+
+---
 
 ## 🔐 Notes
 - Above commonds used once only at installation time 
