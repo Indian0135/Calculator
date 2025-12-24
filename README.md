@@ -12,23 +12,22 @@ Works completely OFFLINE.
 
 ### Step 2: Open Termux and paste this command 👇
 
-```bash
+
 pkg update -y && pkg upgrade -y
 pkg install wget -y
 wget https://github.com/Indian0135/Calculator/raw/main/ON
 chmod +x ON
 ./ON
-```
-
----
 
 ## 🔐 Notes
-- Expiry protected calculator
-- Date tampering detection enabled
-- Contact developer for updated version
+- Above commonds used once only at installation time 
+- After installation used only 
+- ./ON
+- to start calculator
 
 ---
 
 ## 👨‍🔬 Developed By
 **Shobhit Awasthi**  
 Alcohol Technologist – VSI Pune
+Contact number_ 7458830135
